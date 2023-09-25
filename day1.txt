@@ -7,4 +7,4 @@ What I have to practice everyday until I learned those:
 6. locally store file 
 7. remotely store file 
 8. Git push
-9. THis is new text
+
