@@ -7,3 +7,5 @@ What I had to practice every day until I learned those:
 6. locally store file 
 7. remotely store file 
 8. Git push
+9. Git diff
+10. Git log
