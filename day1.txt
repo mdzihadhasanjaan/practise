@@ -6,5 +6,4 @@ What I have to practice everyday until I learned those:
 5. Restore file
 6. locally store file 
 7. remotely store file 
-
-
+8. Git push
