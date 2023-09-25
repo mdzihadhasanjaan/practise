@@ -1,0 +1,10 @@
+What I have to practice everyday until I learned those:
+1. Git init
+2. username and Useremail change
+3. Stagging file
+4. Unstagging file 
+5. Restore file
+6. locally store file 
+7. remotely store file 
+
+
